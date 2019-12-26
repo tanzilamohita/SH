@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+#===================================
+# Tanzila Islam
+# Date Created: 18.12.2019
+#===================================
+
 # this can be anything of your choice
 echo "Welcome to simple password generator"
 
